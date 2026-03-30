@@ -1,0 +1,4 @@
+
+One of the most common investigative practices in Digital Forensics is the preprocessing of evidence. This involves running tools and saving the results in text or format. The analyst often relies on tools such as Volatility when dealing with memory images as evidence. 
+
+This tool is already included in the REMnux . Volatility commands are executed to identify and extract specific artefacts from memory images, and the resulting output can be saved to text files for further examination. Similarly, we can run a script involving the tool's different parameters to preprocess the acquired evidence faster.
